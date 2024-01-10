@@ -1,0 +1,106 @@
+[
+    {
+        "problem": "0-1 BFS",
+        "url": "https://cp-algorithms.com/graph/01_bfs.html"
+    },
+    { "problem": "SPOJ: AKBAR", "url": "http://spoj.com/problems/AKBAR" },
+    {
+        "problem": "SPOJ: NAKANJ",
+        "url": "http://www.spoj.com/problems/NAKANJ/"
+    },
+    { "problem": "SPOJ: WATER", "url": "http://www.spoj.com/problems/WATER" },
+    {
+        "problem": "SPOJ: MICE AND MAZE",
+        "url": "http://www.spoj.com/problems/MICEMAZE/"
+    },
+    {
+        "problem": "Timus: Caravans",
+        "url": "http://acm.timus.ru/problem.aspx?space=1&num=2034"
+    },
+    {
+        "problem": "DevSkill - Holloween Party (archived)",
+        "url": "http://web.archive.org/web/20200930162803/http://www.devskill.com/CodingProblems/ViewProblem/60"
+    },
+    {
+        "problem": "DevSkill - Ohani And The Link Cut Tree (archived)",
+        "url": "http://web.archive.org/web/20170216192002/http://devskill.com:80/CodingProblems/ViewProblem/150"
+    },
+    {
+        "problem": "SPOJ - Spiky Mazes",
+        "url": "http://www.spoj.com/problems/SPIKES/"
+    },
+    {
+        "problem": "SPOJ - Four Chips (hard)",
+        "url": "http://www.spoj.com/problems/ADV04F1/"
+    },
+    {
+        "problem": "SPOJ - Inversion Sort",
+        "url": "http://www.spoj.com/problems/INVESORT/"
+    },
+    {
+        "problem": "Codeforces - Shortest Path",
+        "url": "http://codeforces.com/contest/59/problem/E"
+    },
+    {
+        "problem": "SPOJ - Yet Another Multiple Problem",
+        "url": "http://www.spoj.com/problems/MULTII/"
+    },
+    {
+        "problem": "UVA 11392 - Binary 3xType Multiple",
+        "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2387"
+    },
+    {
+        "problem": "UVA 10968 - KuPellaKeS",
+        "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1909"
+    },
+    {
+        "problem": "Codeforces - Police Stations",
+        "url": "http://codeforces.com/contest/796/problem/D"
+    },
+    {
+        "problem": "Codeforces - Okabe and City",
+        "url": "http://codeforces.com/contest/821/problem/D"
+    },
+    {
+        "problem": "SPOJ - Find the Treasure",
+        "url": "http://www.spoj.com/problems/DIGOKEYS/"
+    },
+    {
+        "problem": "Codeforces - Bear and Forgotten Tree 2",
+        "url": "http://codeforces.com/contest/653/problem/E"
+    },
+    {
+        "problem": "Codeforces - Cycle in Maze",
+        "url": "http://codeforces.com/contest/769/problem/C"
+    },
+    {
+        "problem": "UVA - 11312 - Flipping Frustration",
+        "url": "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2287"
+    },
+    {
+        "problem": "SPOJ - Ada and Cycle",
+        "url": "http://www.spoj.com/problems/ADACYCLE/"
+    },
+    {
+        "problem": "CSES - Labyrinth",
+        "url": "https://cses.fi/problemset/task/1193"
+    },
+    {
+        "problem": "CSES - Message Route",
+        "url": "https://cses.fi/problemset/task/1667/"
+    },
+    {
+        "problem": "CSES - Monsters",
+        "url": "https://cses.fi/problemset/task/1194"
+    },
+    { "problem": "back2sqr1", "url": "https://github.com/back2sqr1" },
+    { "problem": "jakobkogler", "url": "https://github.com/jakobkogler" },
+    { "problem": "paramsingh", "url": "https://github.com/paramsingh" },
+    { "problem": "Morass", "url": "https://github.com/Morass" },
+    { "problem": "adamant-pwn", "url": "https://github.com/adamant-pwn" },
+    { "problem": "Aryamn", "url": "https://github.com/Aryamn" },
+    { "problem": "PAVBAN95", "url": "https://github.com/PAVBAN95" },
+    { "problem": "BemwaMalak", "url": "https://github.com/BemwaMalak" },
+    { "problem": "wttc-nitr", "url": "https://github.com/wttc-nitr" },
+    { "problem": "tcNickolas", "url": "https://github.com/tcNickolas" }
+]
